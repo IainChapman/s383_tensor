@@ -1,6 +1,4 @@
-#tidy this up
 from sympy import  *
-
 
 # This line just sets up pretty printing for later.
 
